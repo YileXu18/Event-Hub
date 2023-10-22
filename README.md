@@ -1,1 +1,3 @@
-# IU-Capstone-project
+# Event Hub (web application)
+
+IU Capstone project
